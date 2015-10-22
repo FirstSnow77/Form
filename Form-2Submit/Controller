@@ -1,0 +1,11 @@
+[HttpParamAction]
+public ActionResult Save(MyModel model)
+{
+    // ...
+}
+
+[HttpParamAction]
+public ActionResult Publish(MyModel model)
+{
+    // ...
+}

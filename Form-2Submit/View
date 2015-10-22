@@ -1,0 +1,6 @@
+@using (@Html.BeginForm())
+{
+    <!-- form content here -->
+    <input type="submit" name="Save" value="Save" />
+    <input type="submit" name="Publish" value="Publish" />
+}
